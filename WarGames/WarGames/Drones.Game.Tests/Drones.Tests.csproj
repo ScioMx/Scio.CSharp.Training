@@ -74,7 +74,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dones\Dones.csproj">
+    <ProjectReference Include="..\Drones\Drones.csproj">
       <Project>{f100321d-b29f-4bc8-9b74-7b90a7a68ea8}</Project>
       <Name>Dones</Name>
     </ProjectReference>
